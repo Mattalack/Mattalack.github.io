@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://driftespresso.com/sitemap-index.xml
