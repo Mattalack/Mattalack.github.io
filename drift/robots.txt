@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mattalack.github.io/drift/sitemap-index.xml
